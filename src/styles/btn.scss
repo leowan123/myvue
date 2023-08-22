@@ -1,0 +1,4 @@
+// 按钮渐变
+@mixin linear-gradient-btn {
+  background: linear-gradient(180deg, #27C5BF 0%, #11B0DF 100%);
+}
